@@ -1,0 +1,8 @@
+Ordenanza Nº9779/2026
+Ordenanza Nº 9779/2026
+Mercedes, 10/03/2026
+Ref. a Exp. N° 742/2023-DE.-
+Tengo el agrado de dirigirme al Señor
+Intendente, con el objeto de llevar a su conocimiento que éste H. Concejo Deliberante en la Sesión Ordinaria del día 09/03/26, sobre tabla y por unanimidad aprobó la siguiente:
+ORDENANZA 9779/26
+ORDENANZA
