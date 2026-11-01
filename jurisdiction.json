@@ -1,0 +1,11 @@
+{
+  "path": "ar-b-mercedes",
+  "code": "AR-B-MERCEDES",
+  "name": "Mercedes",
+  "level": "municipality",
+  "parent": "ar-b",
+  "repo": "https://github.com/lexifina/argentina-mercedes-city-law",
+  "build": "built: municipal ordinances (197 ordinances, 197 versions) from https://sibom.slyt.gba.gob.ar/cities/82",
+  "language": "es",
+  "sources": 1
+}
