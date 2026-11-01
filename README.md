@@ -251,3 +251,7 @@ This is not an official publication. The binding text is the one published in th
 | Ordenanza 9478/2024 | 27 December 2024 | text only as a PDF annex | <https://sibom.slyt.gba.gob.ar/bulletins/11948/contents/2154105> |
 | Ordenanza 9462/2024 | 16 January 2025 | text only as a PDF annex | <https://sibom.slyt.gba.gob.ar/bulletins/11962/contents/2165843> |
 | Ordenanza 9866/02026 | 25 August 2026 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/15562/contents/2435756> |
+
+## Current-text coverage
+
+This record contains 197 approved ordinance records (197 versions), as enacted. No additional current-text acts are certified by the breadth review. The proposed 364 additional bulletin texts are held because source-backed commencement, incorporated annex completeness, amendments and repeals have not been fully resolved. In particular, Ordenanza 8300/2019 repeals Ordenanza 8225/2019; the latter is not represented here as current law.

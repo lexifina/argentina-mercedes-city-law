@@ -224,7 +224,7 @@ Other counts:
 - 1 commits on the branch `futuro`: laws not yet in force on 2026-11-01.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 197 laws in the record.
-- 394 tags.
+- 395 tags.
 
 ## Dates
 
@@ -244,7 +244,7 @@ When a law gives no date of its own, the default rule applies: An ordinance take
 
 197 versions of 197 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
-No second build of this corpus has been compared yet.
+A second build from the same corpus into an empty folder gave identical hashes for all 197 history commits and 394 tags (history tip `1ffc36a7871aad69ccad4e555466103c20f76843`).
 
 ## Decisions made by hand
 

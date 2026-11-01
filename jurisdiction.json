@@ -5,7 +5,7 @@
   "level": "municipality",
   "parent": "ar-b",
   "repo": "https://github.com/lexifina/argentina-mercedes-city-law",
-  "build": "built: municipal ordinances (197 ordinances, 197 versions) from https://sibom.slyt.gba.gob.ar/cities/82",
+  "build": "Municipal ordinances as enacted: 197 approved ordinance records, 197 versions; additional current-text coverage held for source-backed commencement, annex, amendment and repeal review.",
   "language": "es",
   "sources": 1
 }
